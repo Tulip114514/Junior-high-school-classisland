@@ -1,0 +1,2 @@
+# classisland-mgmt-cfgjingxianjuniorhigh
+关于景贤实验中学的classlsland管控
